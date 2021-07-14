@@ -1,0 +1,37 @@
+html,
+body {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+
+canvas {
+    display: block;
+}
+
+select,
+button {
+    color: white;
+    background-color: black;
+    size: 30px;
+    font-size: xx-large;
+    text-align: center;
+    border-color: white;
+}
+
+p {
+    color: white;
+    background-color: black;
+    size: 30px;
+    font-size: xx-large;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 10px;
+    color: white;
+    background-color: black;
+    size: 30px;
+    font-size: 70px;
+    text-align: center;
+}
